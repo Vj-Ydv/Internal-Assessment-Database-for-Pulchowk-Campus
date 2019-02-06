@@ -1,0 +1,47 @@
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Internal Assessment Database.exe.config
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Internal Assessment Database.exe.manifest
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Internal Assessment Database.application
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Internal Assessment Database.exe
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Internal Assessment Database.pdb
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\DGV Printer.dll
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\MySql.Data.dll
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Google.Protobuf.dll
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\MySql.Data.xml
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.csprojAssemblyReference.cache
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.About.resources
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.Form1.resources
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.login.resources
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.mainform.resources
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.newrecords.resources
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.Properties.Resources.resources
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.csproj.GenerateResource.cache
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.exe.manifest
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.application
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.csproj.CopyComplete
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.exe
+G:\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.pdb
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Internal Assessment Database.exe.config
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Internal Assessment Database.exe.manifest
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Internal Assessment Database.application
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Internal Assessment Database.exe
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Internal Assessment Database.pdb
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\MySql.Data.dll
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\Google.Protobuf.dll
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\bin\Release\MySql.Data.xml
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.csprojAssemblyReference.cache
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.About.resources
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.Form1.resources
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.login.resources
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.mainform.resources
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.newrecords.resources
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal_Assessment_Database.Properties.Resources.resources
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.csproj.GenerateResource.cache
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.exe.manifest
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.application
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.csproj.CopyComplete
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.exe
+G:\Softwares\DBMS final project\IAD-admin\IAD-admin-offline\Internal Assessment Database\Internal Assessment Database\obj\Release\Internal Assessment Database.pdb

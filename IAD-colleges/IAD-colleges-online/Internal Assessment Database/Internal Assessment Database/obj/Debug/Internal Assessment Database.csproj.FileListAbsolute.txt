@@ -1,0 +1,204 @@
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.config
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.pdb
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csprojAssemblyReference.cache
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Form1.resources
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Properties.Resources.resources
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.GenerateResource.cache
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.pdb
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.login.resources
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.mainform.resources
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.dll
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\bin\Debug\Google.Protobuf.dll
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.xml
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\Visual Studio\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CopyComplete
+G:\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.config
+G:\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe
+G:\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.pdb
+G:\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.dll
+G:\Internal Assessment Database\Internal Assessment Database\bin\Debug\Google.Protobuf.dll
+G:\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.xml
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csprojAssemblyReference.cache
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Form1.resources
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.login.resources
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.mainform.resources
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Properties.Resources.resources
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.GenerateResource.cache
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CopyComplete
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.pdb
+G:\Internal Assessment Database\Internal Assessment Database\bin\Debug\DGV Printer.dll
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.newrecords.resources
+G:\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.About.resources
+G:\New folder\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.config
+G:\New folder\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe
+G:\New folder\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.pdb
+G:\New folder\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.dll
+G:\New folder\Internal Assessment Database\Internal Assessment Database\bin\Debug\Google.Protobuf.dll
+G:\New folder\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.xml
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csprojAssemblyReference.cache
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.About.resources
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Form1.resources
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.login.resources
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.mainform.resources
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.newrecords.resources
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Properties.Resources.resources
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.GenerateResource.cache
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CopyComplete
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe
+G:\New folder\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.pdb
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.config
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.pdb
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.dll
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\bin\Debug\Google.Protobuf.dll
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.xml
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csprojAssemblyReference.cache
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.About.resources
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Form1.resources
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.login.resources
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.mainform.resources
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.newrecords.resources
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Properties.Resources.resources
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.GenerateResource.cache
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CopyComplete
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe
+G:\DBMS final project\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.pdb
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csprojAssemblyReference.cache
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.About.resources
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Form1.resources
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.login.resources
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.mainform.resources
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Properties.Resources.resources
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.GenerateResource.cache
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.pdb
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.config
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.pdb
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.dll
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\bin\Debug\Google.Protobuf.dll
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.xml
+G:\DBMS final project\IAD-colleges\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CopyComplete
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.config
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.pdb
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.dll
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Google.Protobuf.dll
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.xml
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csprojAssemblyReference.cache
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.About.resources
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Form1.resources
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.login.resources
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.mainform.resources
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Properties.Resources.resources
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.GenerateResource.cache
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CopyComplete
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.pdb
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.manifest
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.application
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe.manifest
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.application
+G:\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\DGV Printer.dll
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.config
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.manifest
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.application
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.pdb
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.dll
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Google.Protobuf.dll
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.xml
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csprojAssemblyReference.cache
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.About.resources
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Form1.resources
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.login.resources
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.mainform.resources
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Properties.Resources.resources
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.GenerateResource.cache
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe.manifest
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.application
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CopyComplete
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe
+G:\Softwares\DBMS final project\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.pdb
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.config
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.manifest
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.application
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.pdb
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.dll
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Google.Protobuf.dll
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.xml
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csprojAssemblyReference.cache
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.About.resources
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Form1.resources
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.login.resources
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.mainform.resources
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Properties.Resources.resources
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.GenerateResource.cache
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe.manifest
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.application
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CopyComplete
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe
+G:\Softwares\DBMS final offline\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.pdb
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.config
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.manifest
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.application
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.pdb
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.dll
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\Google.Protobuf.dll
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.xml
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csprojAssemblyReference.cache
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.About.resources
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Form1.resources
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.login.resources
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.mainform.resources
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Properties.Resources.resources
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.GenerateResource.cache
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe.manifest
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.application
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CopyComplete
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-offline\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.pdb
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.config
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe.manifest
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.application
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.exe
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\bin\Debug\Internal Assessment Database.pdb
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.dll
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\bin\Debug\Google.Protobuf.dll
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\bin\Debug\MySql.Data.xml
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csprojAssemblyReference.cache
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.ResolveComReference.cache
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.About.resources
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Form1.resources
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.login.resources
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.mainform.resources
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal_Assessment_Database.Properties.Resources.resources
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.GenerateResource.cache
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CoreCompileInputs.cache
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe.manifest
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.application
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.csproj.CopyComplete
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.exe
+G:\Softwares\DBMS final\IAD-colleges\IAD-colleges-online\Internal Assessment Database\Internal Assessment Database\obj\Debug\Internal Assessment Database.pdb
